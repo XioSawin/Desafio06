@@ -1,0 +1,3 @@
+{"title":"Gasly 2020 1:2 helmet","price":149.95,"thumbnail":"https://images.redbullshop.com/is/image/RedBullSalzburg/RB-product-detail/SAT20009_5_1/Pierre-Gasly-2020-1-2-Helmet.jpg?c","id":1}
+{"title":"McLaren G'day t-shirt","price":30,"thumbnail":"https://www.mclarenstore.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw69c88668/images/large/701218518001_pp_01_image.jpg?sw=800&sh=800&sm=fit","id":3}
+{"title":"Scuderia Ferrari Sweatshirt","price":104,"thumbnail":"https://images.footballfanatics.com/scuderia-ferrari/scuderia-ferrari-race-xtg-crew-sweatshirt-by-puma-black_ss4_p-12026947+u-sqzmkaobwp12wwvib45r+v-5a52b5a373364999b4d9c0dea5802cb6.jpg?_hv=1&w=900","id":4}
